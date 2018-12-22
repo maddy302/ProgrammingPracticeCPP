@@ -1,0 +1,6 @@
+label abbreviation value
+01 one 1
+02 two 2
+03 three 3
+04 four 4
+05 five 5
